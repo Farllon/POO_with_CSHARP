@@ -1,0 +1,13 @@
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\bin\Debug\netcoreapp3.1\POOPRATICA.exe
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\bin\Debug\netcoreapp3.1\POOPRATICA.deps.json
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\bin\Debug\netcoreapp3.1\POOPRATICA.runtimeconfig.json
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\bin\Debug\netcoreapp3.1\POOPRATICA.runtimeconfig.dev.json
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\bin\Debug\netcoreapp3.1\POOPRATICA.dll
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\bin\Debug\netcoreapp3.1\POOPRATICA.pdb
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\obj\Debug\netcoreapp3.1\POOPRATICA.csprojAssemblyReference.cache
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\obj\Debug\netcoreapp3.1\POOPRATICA.AssemblyInfoInputs.cache
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\obj\Debug\netcoreapp3.1\POOPRATICA.AssemblyInfo.cs
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\obj\Debug\netcoreapp3.1\POOPRATICA.csproj.CoreCompileInputs.cache
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\obj\Debug\netcoreapp3.1\POOPRATICA.dll
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\obj\Debug\netcoreapp3.1\POOPRATICA.pdb
+C:\Users\farll\source\repos\POOPRATICA\POOPRATICA\obj\Debug\netcoreapp3.1\POOPRATICA.genruntimeconfig.cache
